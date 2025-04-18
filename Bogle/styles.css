@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Bogle-Regular';
+  src: url(./Bogle-Regular.woff2) format('woff2');
+}
+
+
+@font-face {
+  font-family: 'Bogle-Bold';
+  src: url(./Bogle-Bold.woff2) format('woff2');
+}
